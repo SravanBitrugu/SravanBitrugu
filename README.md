@@ -2,8 +2,7 @@
 <h3 align="center">Java Developer | Expertise in Core Java & Spring Boot | Growing Full Stack Skills with React Frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanbitrugu&label=Profile%20views&color=0e75b6&style=flat" alt="sravanbitrugu" /> </p>
-
-//[![trophy](https://github-profile-trophy.vercel.app/?SravanBitrugu)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?SravanBitrugu)
 
 - 🌱 I’m currently learning **Spring Boot, React, AWS Cloud**
 
