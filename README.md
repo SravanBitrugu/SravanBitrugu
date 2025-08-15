@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, AWS Cloud**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java, DSA, OOPS**
 
 - 📫 How to reach me **sravanbitrugu123@gmail.com**
 
